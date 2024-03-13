@@ -96,6 +96,7 @@ body {
   height: 50px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #188ce8;
+  cursor: pointer;
 }
 
 .btn:active {
@@ -113,7 +114,6 @@ body {
 }
 
 .description-feature {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71429;
   letter-spacing: 0.03em;
@@ -141,7 +141,6 @@ body {
 }
 
 .description-team {
-  font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.03em;
   text-align: center;
@@ -157,7 +156,6 @@ body {
 }
 
 .contacts {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71429;
   letter-spacing: 0.03em;
@@ -165,7 +163,6 @@ body {
 }
 
 .link-contacts {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71429;
   letter-spacing: 0.03em;
@@ -188,6 +185,7 @@ body {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.08),
     0 3px 1px 0 rgba(0, 0, 0, 0.1);
   background: #2196f3;
+  cursor: pointer;
 }
 
 .btn-filters {
@@ -197,6 +195,7 @@ body {
   letter-spacing: 0.03em;
   text-align: center;
   color: #212121;
+  cursor: pointer;
 }
 
 /*project*/
@@ -210,7 +209,6 @@ body {
 }
 
 .description-project {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
