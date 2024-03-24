@@ -178,6 +178,10 @@ body {
   cursor: none;
 }
 
+.footer .logo {
+  cursor: none;
+}
+
 .contacts {
   font-size: 14px;
   line-height: 1.71429;
